@@ -1,4 +1,4 @@
-ML Beginner Projects 🚀
+#ML Beginner Projects 🚀
 This repository contains some of the machine learning projects that I have done as a beginner. I have used Python as the programming language and Jupyter Notebook or Google Colab as the development environment. The projects cover various topics and techniques in machine learning, such as:
 
 Data preprocessing and visualization 📊
